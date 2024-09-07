@@ -1,4 +1,4 @@
-Sufiyan Shaikh<br/>
+<i>Sufiyan Shaikh<i><br/>
 Python Django Developer
 
 💻 Technologies: Python, Django, REST API, SQL, Nginx, Gunicorn, Linux<br/>
